@@ -1,6 +1,6 @@
 {
   "name": "logistics-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SVG-based React logistics icon components by Ishan Vidanagama",
   "keywords": [
     "React",
@@ -9,6 +9,10 @@
     "Logistics",
     "Courier"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishansasanka/logistics-icons-react.git"
+  },
   "module": "dist/index.esm.js",
   "files": [
     "dist"
@@ -20,6 +24,7 @@
   },
   "author": "Ishan Vidanagama",
   "license": "MIT",
+  "homepage": "https://github.com/ishansasanka/logistics-icons-react/blob/main/README.md",
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.16.4",
     "@babel/preset-env": "^7.16.4",
