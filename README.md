@@ -5,7 +5,7 @@ Javascript
 # Example Usage
 import { FastDelivery } from "logistics-icons"
 
-function App() {
+<!-- function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -25,7 +25,7 @@ function App() {
       </header>
     </div>
   );
-}
+} -->
 
 # Customization
 You can customize the icon width, height and the color as mentioned in the above example and you can use title, titleId, viewBox props as well.
