@@ -6,7 +6,7 @@ Javascript
 import { FastDelivery } from "logistics-icons"
 
 # Use it in your dev component
-# <FastDelivery width='200px' height='200px' fill="#ffffff"/>
+<FastDelivery width='200px' height='200px' fill="#ffffff"/>
 
 # Customization
 You can customize the icon width, height and the color as mentioned in the above example and you can use title, titleId, viewBox props as well.
