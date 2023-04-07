@@ -1,7 +1,7 @@
 {
-  "name": "@logistics/icons",
+  "name": "logistics-icons",
   "version": "1.0.0",
-  "description": "SVG-based React logistics icon components",
+  "description": "SVG-based React logistics icon components by Ishan Vidanagama",
   "keywords": [
     "React",
     "SVG",
